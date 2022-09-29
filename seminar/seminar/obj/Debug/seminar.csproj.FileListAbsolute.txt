@@ -1,0 +1,8 @@
+D:\seminar\seminar\bin\Debug\seminar.exe.config
+D:\seminar\seminar\bin\Debug\seminar.exe
+D:\seminar\seminar\bin\Debug\seminar.pdb
+D:\seminar\seminar\obj\Debug\seminar.csproj.AssemblyReference.cache
+D:\seminar\seminar\obj\Debug\seminar.csproj.SuggestedBindingRedirects.cache
+D:\seminar\seminar\obj\Debug\seminar.csproj.CoreCompileInputs.cache
+D:\seminar\seminar\obj\Debug\seminar.exe
+D:\seminar\seminar\obj\Debug\seminar.pdb
